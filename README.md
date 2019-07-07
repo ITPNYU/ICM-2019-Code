@@ -8,7 +8,7 @@ Syllabus for ITP Foundation Course Introduction to Computational Media: Code
 * 4 -- [Repetition: Loops](weeks/04_loops.md)
 * 5 -- [Organization: Functions](weeks/04_functions.md)
 * 6 -- [More Repetition: Objects and Arrays](weeks/06_objects.md)
-* 7 -- [The DOM](weeks/07_objects.md) Final Project Presentations
+* 7 -- [The DOM](weeks/07_objects.md) and Final Project Presentations
 
 ## Section Info
 * [Allison](sections/01_Allison.md)
@@ -33,7 +33,7 @@ Syllabus for ITP Foundation Course Introduction to Computational Media: Code
 - TBA
 
 ## Inspiration
-- [Help contribute to this wiki!](https://github.com/ITPNYU/ICM-2018/wiki/Inspiration)
+- [Help contribute to this wiki!](https://github.com/ITPNYU/ICM-Code-2019/wiki/Inspiration)
 
 # Policies
 
