@@ -3,17 +3,19 @@
   * What is programming?
   * How can I apply programming to _____________?
   * As a ____________, why would I want or need to write software?
-  * [Example projects for Inspiration](https://github.com/ITPNYU/ICM-2018/wiki/Inspiration)
+  * [Example projects for Inspiration](https://github.com/ITPNYU/ICM-Code-2019/wiki/Inspiration)
+  * Can programming be an expressive medium?
+  * Why are we introducing programming through drawing?
 ## Programming language discussion
   * General discussion of programming languages
   * History of creative coding frameworks
-      * Processing and p5.js (and what's processing.js?)
+      * [Processing](https://processing.org/) and [p5.js](https://p5js.org/) (and what's [processing.js](http://processingjs.org/)?)
       * [Introduction to Code with p5.js Video](https://youtu.be/yPWkPOfnGsw)
       * [p5.js Web Editor Promo Video](https://youtu.be/dtHxDggkBYc)
       * [History of p5.js video](https://www.youtube.com/watch?v=FdsWWjqoPKU)
-      * openframeworks, cinder
-      * max/msp dataflow programming
-      * How does arduino fit in?
+      * [openFrameworks](https://openframeworks.cc/), [Cinder](https://libcinder.org/)
+      * [Max/MSP](https://cycling74.com/) [dataflow programming](https://en.wikipedia.org/wiki/Dataflow_programming)
+      * How does [Arduino](https://www.arduino.cc/) fit in?
 ## p5.js in the context of the browser
   * Landscape of HTML, CSS, and JavaScript
   * Other JS frameworks
@@ -23,7 +25,7 @@
   * What is git and github?
   * When should you post to a forum vs. file a github issue?
   * Who makes these things?
-  
+
 # Drawing
 ## Getting started, your first program
   * [p5.js Web Editor Tutorial](https://youtu.be/MXs1cOlidWs)
@@ -33,6 +35,10 @@
   * [Code Comments Video Tutorial](https://youtu.be/xJcrPJuem5Q)
   * `setup()` and `draw()`
   * [p5.js reference](http://p5js.org/reference)
+
+## Getting Started with p5.js book
+*  Chapter 1-3 of [Getting Started with p5.js book](http://amzn.to/2ckixCW) - [Ebook (free with NYU Library login)](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=4333728)
+
 ## Additional viewing / reading:
   * [Pick an Eyeo Talk that looks interesting](https://vimeo.com/eyeofestival/)
   * [All introductory p5.js videos](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)

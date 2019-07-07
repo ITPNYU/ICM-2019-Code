@@ -11,12 +11,8 @@
 * [3.3: `else`, `else if`, AND (`&&`), OR (`||`) - video tutorial](https://www.youtube.com/watch?v=r2S7j54I68c&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=12)
 * [3.4: Boolean variables - video tutorial](https://www.youtube.com/watch?v=Rk-_syQluvc&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=13)
 
-## Loops (while and for)
-* [4.1: `while` and `for` - video tutorial](https://www.youtube.com/watch?v=cnRD9o6odjk&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=14)
-* [4.2: nested loops - video tutorial](https://www.youtube.com/watch?v=1c1_TMdf8b8&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=15)
-
 ## Getting Started with p5.js book
-*  Chapters 4-5 of [Getting Started with p5.js book](http://amzn.to/2ckixCW) - [Ebook (free with NYU Library login)](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=4333728)
+*  Chapter 5 of [Getting Started with p5.js book](http://amzn.to/2ckixCW) - [Ebook (free with NYU Library login)](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=4333728)
 
 
 ## GUI Interfaces
@@ -30,7 +26,3 @@ One way to practice working with conditionals is to try to code a common interfa
 - [draggable](https://editor.p5js.org/projects/B13wH5T3)
 - [knob](https://editor.p5js.org/projects/HkfFHcp2)
 - [slider](https://editor.p5js.org/projects/H1LXU9ah)
-
-## 10PRINT 
-* [10PRINT Coding Challenge video](https://youtu.be/bEyTZ5ZZxZs)
-* [10PRINT code example](https://editor.p5js.org/projects/rkHKL962)

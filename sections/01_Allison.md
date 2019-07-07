@@ -4,7 +4,7 @@
 * E-mail me at [aparrish@nyu.edu](mailto:aparrish@nyu.edu).
 * We meet Thursdays from 12:10pm–2:40pm.
 * I don't know which room off the top of my head. It'll be on a schedule somewhere probably.
-* [Class outlines and homework assignments](https://github.com/ITPNYU/ICM-2018/wiki/Homework-Allison)
+* [Class outlines and homework assignments](https://github.com/ITPNYU/ICM-Code-2019/wiki/Homework-Allison)
 * [Office hours](http://help.itp.nyu.edu/in-person/office-hours/)
 
 ## Dates
@@ -19,7 +19,7 @@
 8. October 25
 9. November 1
 10. **Friday, Nov 2 11am-2pm -- Dumplings!**
-11. November 8 
+11. November 8
 12. November 15
 13. November 29
 14. December 6

@@ -1,12 +1,11 @@
 ## Info
 
-* Luisa Pereira
+* Mimi Onuoha
 * Tuesday, 9:00am to 11:30am
 * Room 15
-
-* [Homework Wiki](https://github.com/shiffman/ICM-2018/wiki/Homework-Luisa)
+* [Homework Wiki](https://github.com/shiffman/ICM-Code-2019/wiki/Homework-MimiO)
 * [Office Hours](https://calendar.google.com/calendar/selfsched?sstoken=UU1WMTVTeUQzVjhUfGRlZmF1bHR8NmJlYmZkZWU4NjRlMGEzMzg3NDA1NTNhODU2OTBmNTc)
-* Email: luisa.ph@nyu.edu
+* Email: 
 
 ## Dates
 

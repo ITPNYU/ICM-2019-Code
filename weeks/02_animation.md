@@ -15,7 +15,12 @@
   * [Rainbow Paintbrush in p5.js](https://medium.com/@kellylougheed/rainbow-paintbrush-in-p5-js-e452d5540b25) by Kelly Lougheed
 * The [map()](http://p5js.org/reference/#/p5/map) function
   * [video 2.4: map()](https://www.youtube.com/watch?v=nicMAoW6u1g&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=8)
-  
+
+## Getting Started with p5.js book
+  * Chapters 4 through Ex.4.5, 8 through Ex. 8.9
+  * Going further: Chapters 6 (Transformations) and 8.10-8.15 (More complex motion)
+  * [Getting Started with p5.js book](http://amzn.to/2ckixCW) - [Ebook (free with NYU Library login)](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=4333728)
+
 ## Transformations
 * [video 9.1: `translate()`, `rotate()`, `push()`, `pop()`](https://youtu.be/o9sgjuh-CBM)
 * [video 9.2: `scale()`](https://youtu.be/pkHZTWOoTLM)

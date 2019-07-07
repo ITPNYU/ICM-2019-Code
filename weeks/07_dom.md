@@ -42,9 +42,12 @@ https://github.com/processing/p5.js/issues/3260
 
 ### Additional Topics
 * [8.11: Callbacks on Multiple DOM Elements - video tutorial](https://youtu.be/KeZBpeH59Q4?list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX)
-* [8.12: parent() and child() - video tutorial](https://youtu.be/eoXLD0Aw1YI?list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX) 
+* [8.12: parent() and child() - video tutorial](https://youtu.be/eoXLD0Aw1YI?list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX)
 * [8.13: Assigning a CSS Class Dynamically - video tutorials](https://youtu.be/KMRgLi2TBhQ?list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX)
 * [8.14: parent() and child() again with variables - video tutorial](https://youtu.be/4OAG_BkQcPE?list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX)
 * [8.15: Drag and Drop a File - video tutorial](https://youtu.be/o4UmGrPst_c?list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX)
 * [8.16: Slider Dance - video tutorial](https://youtu.be/CMsD3IigG7g?list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX)
 * [p5.js Sketch as Background - video tutorial](https://youtu.be/OIfEHD3KqCg?list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX)
+
+## Getting Started with p5.js book
+*  Chapters 13.4 - 13.6 of [Getting Started with p5.js book](http://amzn.to/2ckixCW) - [Ebook (free with NYU Library login)](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=4333728)

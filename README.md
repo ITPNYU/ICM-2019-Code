@@ -1,29 +1,22 @@
-# ICM-2018
-Syllabus for ITP Foundation Course Introduction to Computational Media
+# ICM-2019
+Syllabus for ITP Foundation Course Introduction to Computational Media: Code
 
 ## Syllabus Overview
 * 1 -- [Introduction and Drawing](weeks/01_intro.md)
 * 2 -- [Animation: Variables](weeks/02_animation.md)
-* 3 -- [Interaction: conditionals and loops](weeks/03_interaction.md)
-* 4 -- [Functions and Objects](weeks/04_functions.md)
-* 5 -- [Objects and Arrays](weeks/05_objects.md)
-* 6 -- [DOM: HTML, CSS](weeks/06_dom.md) and [Serial Communication](weeks/06_serial.md)
-* 7 -- [Working with Data](weeks/07_data.md)
-* 8 -- [Video and Sound](weeks/08_media.md)
-* 9 -- [Machine Learning](weeks/09_ml.md)
-* 10 -- [ICM Madness Workshop](https://github.com/ITPNYU/ICMadness-2018) -- All sections meet Friday, Nov 2, 11am-2pm!
-* 11 -- Other Topics + Final Project Proposals
-* 12 -- Beyond p5.js + Final Project Proposals
-* 13 -- One on one speed user testing / feedback
-* 14 -- Final Project Presentations
+* 3 -- [Interaction: Conditionals](weeks/03_interaction.md)
+* 4 -- [Repetition: Loops](weeks/04_loops.md)
+* 5 -- [Organization: Functions](weeks/04_functions.md)
+* 6 -- [More Repetition: Objects and Arrays](weeks/06_objects.md)
+* 7 -- [The DOM](weeks/07_objects.md) Final Project Presentations
 
 ## Section Info
-* [Allison](sections/03_Allison.md)
-* [Cassie](sections/05_Cassie.md)
-* [Dano](sections/06_Dano.md), [Homework](https://github.com/shiffman/ICM-2018/wiki/Homework-Dano)
-* [Luisa](sections/01_Luisa.md)
-* [Mimi](sections/04_Mimi.md)
-* [Shawn](sections/02_Shawn.md)
+* [Allison](sections/01_Allison.md)
+* [Cassie](sections/02_Cassie.md)
+* [Dano](sections/03_Dano.md)
+* [Mimi O.](sections/04_MimiO.md)
+* [Mimi Y.](sections/05_MimiY.md)
+* [Mimi Y.](sections/06_MimiY.md)
 
 ## Questions and Discussion
 - [Sign up for the ICM google group](https://groups.google.com/a/itp.nyu.edu/group/icm/)
@@ -92,6 +85,7 @@ Mantras By James
 
 Previous Years
 --------------
+- [2018](https://github.com/ITPNYU/ICM-2018/)
 - [2017](https://github.com/ITPNYU/ICM-2017/)
 - [2016](https://github.com/ITPNYU/ICM-2016/)
 - [2015](https://github.com/ITPNYU/ICM-2015/)
