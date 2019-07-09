@@ -1,4 +1,4 @@
-# ICM-2019
+# ICM-Code-2019
 Syllabus for ITP Foundation Course Introduction to Computational Media: Code
 
 ## Syllabus Overview
