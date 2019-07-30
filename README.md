@@ -11,10 +11,10 @@ Syllabus for ITP Foundation Course Introduction to Computational Media: Code
 * 7 -- [The DOM](weeks/07_objects.md) and Final Project Presentations
 
 ## Section Info
-* [Allison](sections/01_Allison.md)
-* [Cassie](sections/02_Cassie.md)
-* [Dano](sections/03_Dano.md)
-* [Mimi O.](sections/04_MimiO.md)
+* [Mimi O.](sections/01_MimiO.md)
+* [Allison](sections/02_Allison.md)
+* [Cassie](sections/03_Cassie.md)
+* [Dano](sections/04_Dano.md), [Homework](https://github.com/shiffman/ICM-2018/wiki/Homework-Dano)
 * [Mimi Y.](sections/05_MimiY.md)
 * [Mimi Y.](sections/06_MimiY.md)
 
