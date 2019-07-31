@@ -1,0 +1,17 @@
+## Information
+
+* Dan O'Sullivan, dan.osullivan@nyu.edu
+* Time
+* Room
+* [Homework Wiki](https://github.com/ITPNYU/ICM-Code-2019/wiki/Homework-Dano)
+* [Office Hours](https://calendar.google.com/calendar/selfsched?sstoken=UVBlTFZhOVNCTmF0fGRlZmF1bHR8MmU2NTM4NjJmOTJiNTUwM2M0YTBmMzcyZDM4NjRkNmQ)
+
+## Dates
+
+1. Wednesday, September 4
+2. Wednesday, September 11
+3. Wednesday, September 18
+4. Wednesday, September 25
+5. Wednesday, October 2
+6. Wednesday, October 9
+7. Wednesday, October 16
