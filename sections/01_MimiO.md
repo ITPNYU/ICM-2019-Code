@@ -3,7 +3,7 @@
 * Mimi Onuoha, email
 * Time
 * Room
-* [Homework Wiki](https://github.com/shiffman/ICM-Code-2019/wiki/Homework-MimiO)
+* [Homework Wiki](https://github.com/shiffman/ICM-2019-Code/wiki/Homework-MimiO)
 * [Office Hours]()
 
 ## Dates

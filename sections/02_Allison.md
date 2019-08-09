@@ -4,7 +4,7 @@
 * E-mail me at [aparrish@nyu.edu](mailto:aparrish@nyu.edu).
 * Time
 * Room
-* [Class outlines and homework assignments](https://github.com/ITPNYU/ICM-Code-2019/wiki/Homework-Allison)
+* [Class outlines and homework assignments](https://github.com/ITPNYU/ICM-2019-Code/wiki/Homework-Allison)
 * [Office hours](http://help.itp.nyu.edu/in-person/office-hours/)
 
 ## Dates

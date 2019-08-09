@@ -2,7 +2,7 @@
 * Mimi Yin, mimi.yin@nyu.edu
 * Time
 * Room
-* [Homework Wiki](https://github.com/ITPNYU/ICM-Code-2019/wiki/Homework-MimiY-03)
+* [Homework Wiki](https://github.com/ITPNYU/ICM-2019-Code/wiki/Homework-MimiY-03)
 * [Office Hours Signup](https://itp.nyu.edu/inwiki/Signup/Mimi)
 
 ## Dates

@@ -3,7 +3,7 @@
 * Cassie Tarakajian, cassie.tarakajian@nyu.edu
 * Time
 * Room
-* [Homework Wiki](https://github.com/shiffman/ICM-Code-2019/wiki/Homework-Cassie)
+* [Homework Wiki](https://github.com/shiffman/ICM-2019-Code/wiki/Homework-Cassie)
 * [Office Hours](https://calendar.google.com/calendar/selfsched?sstoken=UU1sWVF3by0wR2lQfGRlZmF1bHR8YjhkY2IyODcxNDk3ODRhNzI1OTkyN2JiMDY3ODFmNWI): Thursday Afternoons, Adjunct Area, 4th Floor
 
 ## Dates
