@@ -24,9 +24,6 @@ Syllabus for ITP Foundation Course Introduction to Computational Media: Code
 ## p5.js
 - The primary platform for the class is [p5.js](http://www.p5js.org/), a JavaScript library for creative coding.  We will start coding with the [web editor for p5.js](https://alpha.editor.p5js.org/).
 
-## Section specific info
-* [office hours, scheduling, and contact info](https://github.com/ITPNYU/ICM-2018/blob/master/sections.md)
-
 ## Extra Help
 - [Research Resident Office Hours](http://itp.nyu.edu/residents/contact-the-residents/)
 - ICM Help Sessions: Fridays 6.30 pm - 7.30 pm & Mondays 1pm-2pm (Rm 50)
