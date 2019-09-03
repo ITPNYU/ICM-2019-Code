@@ -1,7 +1,7 @@
 ## Information
 * Mimi Yin, mimi.yin@nyu.edu
-* Time
-* Room
+* Time: Wednesdays, 12:10PM
+* Room: 411
 * [Homework Wiki](https://github.com/ITPNYU/ICM-2019-Code/wiki/Homework-MimiY-03)
 * [Office Hours Signup](https://itp.nyu.edu/inwiki/Signup/Mimi)
 
