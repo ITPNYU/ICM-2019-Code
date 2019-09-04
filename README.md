@@ -30,7 +30,7 @@ Syllabus for ITP Foundation Course Introduction to Computational Media: Code
 - TBA
 
 ## Inspiration
-- [Help contribute to this wiki!](https://github.com/ITPNYU/ICM-Code-2019/wiki/Inspiration)
+- [Help contribute to this wiki!](https://github.com/ITPNYU/ICM-2019-Code/wiki/Inspiration)
 
 # Policies
 
