@@ -1,8 +1,8 @@
 ## Information
 
 * Dan O'Sullivan, dan.osullivan@nyu.edu
-* Time
-* Room
+* Time: Wed 3:20 - 5:50pm
+* Room: 408
 * [Homework Wiki](https://github.com/ITPNYU/ICM-2019-Code/wiki/Homework-Dano)
 * [Office Hours](https://calendar.google.com/calendar/selfsched?sstoken=UVBlTFZhOVNCTmF0fGRlZmF1bHR8MmU2NTM4NjJmOTJiNTUwM2M0YTBmMzcyZDM4NjRkNmQ)
 
