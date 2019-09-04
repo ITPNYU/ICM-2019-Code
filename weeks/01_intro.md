@@ -3,7 +3,7 @@
   * What is programming?
   * How can I apply programming to _____________?
   * As a ____________, why would I want or need to write software?
-  * [Example projects for Inspiration](https://github.com/ITPNYU/ICM-Code-2019/wiki/Inspiration)
+  * [Example projects for Inspiration](https://github.com/ITPNYU/ICM-2019-Code/wiki/Inspiration)
   * Can programming be an expressive medium?
   * Why are we introducing programming through drawing?
 ## Programming language discussion
