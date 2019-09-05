@@ -6,9 +6,9 @@ Syllabus for ITP Foundation Course Introduction to Computational Media: Code
 * 2 -- [Animation: Variables](weeks/02_animation.md)
 * 3 -- [Interaction: Conditionals](weeks/03_interaction.md)
 * 4 -- [Repetition: Loops](weeks/04_loops.md)
-* 5 -- [Organization: Functions](weeks/04_functions.md)
+* 5 -- [Organization: Functions](weeks/05_functions.md)
 * 6 -- [More Repetition: Objects and Arrays](weeks/06_objects.md)
-* 7 -- [The DOM](weeks/07_objects.md) and Final Project Presentations
+* 7 -- [The DOM](weeks/07_dom.md) and Final Project Presentations
 
 ## Section Info
 * [Mimi O.](sections/01_MimiO.md) | [Homework](https://github.com/ITPNYU/ICM-2019-Code/wiki/Homework-MimiO)
