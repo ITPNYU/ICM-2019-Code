@@ -37,7 +37,7 @@
   * [p5.js reference](http://p5js.org/reference)
 
 ## Getting Started with p5.js book
-  *  Chapter 1-3 of [Getting Started with p5.js book](http://amzn.to/2ckixCW) | [Ebook (free with NYU Library login)](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=4333728) | [Code](https://github.com/lmccart/gswp5.js-code)
+  *  Chapter 1-3 of [Getting Started with p5.js book](http://amzn.to/2ckixCW) | [NYU Library Ebook (free, must be on campus to access)](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=4333728) | [Code](https://github.com/lmccart/gswp5.js-code)
 
 ## Additional viewing / reading:
    * [Pick an Eyeo Talk that looks interesting](https://vimeo.com/eyeofestival/)
