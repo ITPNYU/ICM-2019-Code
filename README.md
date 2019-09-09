@@ -16,7 +16,7 @@ Syllabus for ITP Foundation Course Introduction to Computational Media: Code
 * [Mimi Y.](sections/03_MimiY.md) | [Homework](https://github.com/ITPNYU/ICM-2019-Code/wiki/Homework-MimiY-03)
 * [Mimi Y.](sections/04_MimiY.md) | [Homework](https://github.com/ITPNYU/ICM-2019-Code/wiki/Homework-MimiY-04)
 * [Dano](sections/05_Dano.md) | [Homework](https://github.com/ITPNYU/ICM-2019-Code/wiki/Homework-Dano)
-* [Cassie](sections/06_Cassie.md) | [Homework](https://github.com/shiffman/ICM-2019-Code/wiki/Homework-Cassie)
+* [Cassie](sections/06_Cassie.md) | [Homework](https://github.com/ITPNYU/ICM-2019-Code/wiki/Homework-Cassie)
 
 ## Questions and Discussion
 - [Sign up for the ICM google group](https://groups.google.com/a/itp.nyu.edu/group/icm/)
