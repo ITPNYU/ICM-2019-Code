@@ -10,6 +10,8 @@
   * [bouncing ball editor example](https://editor.p5js.org/projects/BJKWv5Tn)
 * [3.3: `else`, `else if`, AND (`&&`), OR (`||`) - video tutorial](https://www.youtube.com/watch?v=r2S7j54I68c&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=12)
 * [3.4: Boolean variables - video tutorial](https://www.youtube.com/watch?v=Rk-_syQluvc&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=13)
+* Video Examples: [3.1-3.4](https://github.com/CodingRainbow/Rainbow-Code/tree/master/p5.js)
+
 
 ## Getting Started with p5.js book
 *  Chapter 5 of [Getting Started with p5.js book](http://amzn.to/2ckixCW) | [Ebook (free with NYU Library login)](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=4333728) | [Code](https://github.com/lmccart/gswp5.js-code)

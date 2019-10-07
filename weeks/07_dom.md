@@ -8,13 +8,16 @@ https://github.com/processing/p5.js/issues/3260
 
 ## Video Tutorials
 * [Code for videos below](https://github.com/CodingTrain/website/tree/master/Tutorials/P5JS/p5.js/08)
-
-### Basics
-* [8.1: What is HTML? - video tutorial](https://youtu.be/URSH0QpxKo8?list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX)
-* [8.2: Creating HTML Elements with JavaScript - video tutorial](https://youtu.be/lAtoaRz78I4?list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX)
-* [8.4: Handling DOM Events with Callbacks - video tutorial](https://youtu.be/NcCEzzd9BGE?list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX)
-* [8.5: Interacting with the DOM using Sliders, Buttons and Text Inputs - video tutorial](https://youtu.be/587qclhguQg?list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX)
-* [8.7: The Basics of CSS - video tutorial](https://youtu.be/zGL8q8iQSQw?list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX)
+* [Full Series on HTML / CSS / DOM](https://youtu.be/URSH0QpxKo8?list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX)
+   * Basics
+      * 8.1: What is HTML?
+      * 8.2: Creating HTML Elements with JavaScript
+      * 8.3: Manipulating DOM Elements with html() and position()
+      * 8.4: Handling DOM Events with Callbacks
+      * 8.5: Interacting with the DOM using Sliders, Buttons and Text Inputs
+      * 8.6: Other Events and Inputs
+      * 8.8: Events "changed" and "input"
+      * 8.7, 8.9 and 8.10: CSS, CSS Selectors and select() and selectAll() with CSS Selectors
 
 ## Reference Pages
 * [p5 DOM library reference](https://p5js.org/reference/#/libraries/p5.dom)
